@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido através do "Desafio 2 - criando uma página de lo
 * Adicionar o Vue.js no projeto
 * Fazer transição entre o formulário de login e de cadastro
 * O formulário não deve atualizar a página
+* Ao clicar no botão de Login/Cadastrar mostrar uma mensagem de sucesso, confirmando o envio das informações
 
 O resultado da aplicação pode ser acessado através da seguinte URL:
 [https://marioandre01.github.io/pagina_de_login_vueJS](https://marioandre01.github.io/pagina_de_login_vueJS/)
