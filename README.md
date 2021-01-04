@@ -27,7 +27,8 @@ Esse projeto foi desenvolvido através do "Desafio 2 - criando uma página de lo
 * Fazer transição entre o formulário de login e de cadastro
 * O formulário não deve atualizar a página
 
-<!-- O resultado da aplicação pode ser acessado através da seguinte URL: -->
+O resultado da aplicação pode ser acessado através da seguinte URL:
+[https://marioandre01.github.io/pagina_de_login_vueJS](https://marioandre01.github.io/pagina_de_login_vueJS/)
 
 ## 📋 Tecnologias
 
@@ -38,6 +39,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Javascript
 - [VueJS](https://vuejs.org/)
 - [Bootstrap](https://getbootstrap.com/)
+- [adminlte](https://adminlte.io/)
 - [fontawesome](https://fontawesome.com/)
 
 
